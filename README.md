@@ -10,6 +10,4 @@ unsupervised ECoG analysis.
 
 
 ![1cm_grid](1cm_grid.png "1 cm electrode spacing")
-![4mm_grid](4mm_grid.png "4 mm electrode spacing")
-
 ![electrode_coverage](coverage.png)

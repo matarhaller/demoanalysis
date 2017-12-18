@@ -1,0 +1,7 @@
+os
+scipy
+numpy
+pandas
+matplotlib
+cPickle
+brewer2mpl
